@@ -1,4 +1,5 @@
 Hi there, I'm Emmanuel Owusu-Ansah 👋
+
 🚀 About Me
 I am an aspiring Data Technician with hands-on experience in data analysis, business intelligence, databases, cloud technologies, and data visualization gained through a Data Technician Bootcamp.
 
